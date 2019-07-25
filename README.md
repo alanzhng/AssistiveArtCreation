@@ -1,1 +1,1 @@
-# assistiveartcreation
+# Assistive Art Creation
