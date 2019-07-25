@@ -1,3 +1,3 @@
 # Assistive Art Creation 
-by Alan Zhang, Andrew Park, Qihang Xu
-\nJuly 2019
+by Alan Zhang, Andrew Park, Qihang Xu\
+July 2019
